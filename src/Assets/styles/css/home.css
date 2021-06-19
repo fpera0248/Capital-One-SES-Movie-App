@@ -1,0 +1,235 @@
+.Header {
+  background-color: #222;
+  color: #fff;
+  height: 70px;
+}
+.header-content {
+  width: 1200px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+.header-content p {
+  font-size: 1.8rem;
+}
+.Hero {
+  height: 500px;
+  background-color: red;
+  background: url(../../img/hero.jpg);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  color: #fff;
+}
+.Hero::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+}
+.Hero .hero-content {
+  position: relative;
+  z-index: 1;
+  width: 1200px;
+  margin: auto;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.Hero .hero-content h1 {
+  font-size: 2.5rem;
+}
+.Hero .hero-content p {
+  font-size: 18px;
+  width: 700px;
+  margin-top: 1rem;
+}
+.Hero .hero-content button {
+  color: #fff;
+  background: #e00000;
+  height: 40px;
+  width: 140px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+.SearchArea form {
+  background: #222;
+  position: sticky;
+  top: 0;
+  padding: 1.5rem 0rem;
+}
+.SearchArea .pagination-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  display: none;
+  margin-top: 2rem;
+}
+
+.SearchArea .pagination-buttons > * {
+  color: #fff;
+  background: #e00000;
+  width: 140px;
+  height: 40px;
+  outline: none;
+  cursor: pointer;
+  border: none;
+}
+.SearchArea .pagination-buttons > * + * {
+  margin-left: 10px;
+}
+.SearchArea form .form-content {
+  width: 1200px;
+  margin: 0rem auto;
+}
+.SearchArea form .form-content {
+  display: grid;
+  grid-template-columns: 1fr 150px 150px;
+  grid-auto-rows: 45px;
+  grid-gap: 2rem;
+}
+.SearchArea form .form-content input[type="button"] {
+  color: #fff;
+  background: #e00000;
+
+  border: none;
+  outline: none;
+  height: 100%;
+  cursor: pointer;
+}
+.SearchArea form input {
+  height: 100%;
+  padding: 0rem 1rem;
+  width: 100%;
+  outline: none;
+  border: none;
+}
+.heading-wrapper {
+  width: 1200px;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.heading-wrapper h1,
+.heading-wrapper span {
+  display: none;
+}
+.results-wrapper {
+  color: #fff;
+  padding: 4rem 0rem;
+}
+
+.results-content {
+  width: 1200px;
+  margin: 0rem auto;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 20px;
+}
+
+.results-content .each-result {
+  padding: 0.5rem;
+  cursor: pointer;
+}
+.results-content .each-result > * {
+  pointer-events: none;
+}
+
+.results-content .each-result:hover {
+  box-shadow: 0px 0px 10px rgb(201, 199, 199);
+}
+.results-content .each-result img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+.results-content .each-result h1 {
+  font-size: 20px;
+  color: #fff;
+}
+.no-poster {
+  width: 100%;
+  background-color: rgb(109, 108, 108);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  height: 300px;
+}
+.details-wrapper {
+  height: 100vh;
+  width: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.9);
+  left: 0;
+  top: 0;
+  display: none;
+  z-index: 222;
+  position: fixed;
+}
+.show-text-details {
+  width: 100%;
+}
+.close {
+  position: absolute;
+  right: 20px;
+  top: 10px;
+  cursor: pointer;
+}
+@media screen and (max-width: 1200px) {
+  .header-content,
+  .Hero .hero-content,
+  .SearchArea form .form-content,
+  .heading-wrapper,
+  .results-content {
+    width: 90% !important;
+  }
+  .results-content {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+@media screen and (max-width: 800px) {
+  .hero-content {
+    text-align: center;
+    align-items: center !important;
+  }
+  .hero-content p {
+    width: 100% !important;
+  }
+  .results-content {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media screen and (max-width: 600px) {
+  .results-content {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media screen and (max-width: 500px) {
+  .results-content,
+  .SearchArea form .form-content {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .SearchArea .pagination-buttons {
+    flex-direction: column;
+    width: 90%;
+    margin: 0rem auto;
+    margin-top: 2rem;
+  }
+  .SearchArea .pagination-buttons > * {
+    width: 100%;
+  }
+  .SearchArea .pagination-buttons > * + * {
+    margin-left: 0px;
+    margin-top: 10px;
+  }
+}
