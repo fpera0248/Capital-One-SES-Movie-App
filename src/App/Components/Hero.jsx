@@ -1,5 +1,5 @@
 import React from 'react'
-import hero from '../../Assets/img/hero.jpg'
+import hero from '../../Assets/img/movie.jpg'
 function Hero() {
     return (
         // hero area means main banner

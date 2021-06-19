@@ -16,7 +16,7 @@
 .Hero {
   height: 500px;
   background-color: red;
-  background: url(../../img/hero.jpg);
+  background: url(../../img/movie.jpg);
   background-size: cover;
   background-position: center;
   position: relative;
@@ -156,7 +156,7 @@
   font-size: 20px;
   color: #fff;
 }
-.no-poster {
+.results-content .each-result .no-poster {
   width: 100%;
   background-color: rgb(109, 108, 108);
   display: flex;
