@@ -156,7 +156,7 @@
   font-size: 20px;
   color: #fff;
 }
-/* .no-poster {
+.no-poster {
   width: 100%;
   background-color: rgb(109, 108, 108);
   display: flex;
@@ -164,7 +164,7 @@
   justify-content: center;
   color: #fff;
   height: 300px;
-} */
+}
 .details-wrapper {
   height: 100vh;
   width: 100%;
