@@ -1,6 +1,6 @@
 import axios from 'axios'
 import React, { useState } from 'react'
-import hero from '../../Assets/img/movie.jpg'
+import hero from '../../Assets/img/hero.jpg'
 import {HandlePageNumber,RefreshPageNumber} from '../../Assets/js/PageNumberCalc'
 import Details from '../Pages/Details'
 function SearchArea() {
@@ -33,7 +33,7 @@ function SearchArea() {
                     PageNumber= RefreshPageNumber()
             }
             //  this is the api call
-            await axios.get(`http://www.omdbapi.com/?s=${Search}&page=${PageNumber}&y=${year}&apikey=f78e3cc7`)
+            await axios.get(`https://www.omdbapi.com/?s=${Search}&page=${PageNumber}&y=${year}&apikey=f78e3cc7`)
             .then(res=>{
              console.log(res)
          
@@ -73,10 +73,10 @@ function SearchArea() {
         // UniqueData
         setUniqueData(Id)
         document.querySelector(".details-wrapper").style.display="flex"
-        document.querySelector(".show-text-details").textContent="Please Wait While are fetching your movie details"
+        document.querySelector(".show-text-details").textContent="Please Wait we are fetching your movie details"
         document.querySelector(".show-text-details").style.display="block"
        
-        axios.get(`http://www.omdbapi.com/?i=${Id}&apikey=f78e3cc7`).then(res=>{
+        axios.get(`https://www.omdbapi.com/?i=${Id}&apikey=f78e3cc7`).then(res=>{
             console.log(res)
             console.log(res.data)
             console.log("Fernando Peralta")
@@ -91,12 +91,12 @@ function SearchArea() {
     }
     return (
 
-        // this is the jsx rendering calls
+        // this is the jsx rendering
         <div className="SearchArea">
             <form action="" onSubmit={e=>HandleFetch(e,Search)}>
              <div className="form-content">
              <div className="input-wrapper">
-                <input type="text" placeholder="Search For Movies Here" onChange={HandleSearch} value={Search} />
+                <input type="text" placeholder="Search Movie Here" onChange={HandleSearch} value={Search} />
             </div>
             <input type="text" placeholder="Released Year" onChange={e=>setyear(e.target.value) 
              }value={year}  />
@@ -117,7 +117,7 @@ function SearchArea() {
                           <div className="each-result" onClick={HandleIdValue} id={eachresult.imdbID}key={eachresult.imdbID} >
                         {
                             eachresult.Poster=="N/A"? <div className="no-poster">
-                            <p>No Poster Available</p>
+                            <p>No Poster</p>
                         </div>:<img src={eachresult.Poster&&eachresult.Poster} alt="" />
                         }
                           
@@ -134,7 +134,7 @@ function SearchArea() {
                         document.querySelector(".details-wrapper").style.display="none"
                         setDetailsShow(false)
                     }}>X</span>
-                    <p className="show-text-details" style={{textAlign:"center",marginTop:30}}>Please Wait. We are fetching your movie details</p>
+                    <p className="show-text-details" style={{textAlign:"center",marginTop:30}}>Please Wait we are fetching your movie details</p>
                    {DetailsShow==true&&(
                         <Details UniqueData={UniqueData}/>
                    )}
