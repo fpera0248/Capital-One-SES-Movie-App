@@ -10,7 +10,7 @@ function Details({UniqueData}) {
            <div className="details-content">
            {
                             UniqueData.Poster=="N/A"? <div className="no-poster">
-                            <p>No Poster</p>
+                            <p>No Poster Available</p>
                         </div>:<img src={UniqueData.Poster} alt="" />
                         }
            

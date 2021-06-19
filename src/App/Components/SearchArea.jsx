@@ -117,7 +117,7 @@ function SearchArea() {
                           <div className="each-result" onClick={HandleIdValue} id={eachresult.imdbID}key={eachresult.imdbID} >
                         {
                             eachresult.Poster=="N/A"? <div className="no-poster">
-                            <p>No Poster</p>
+                            <p>No Poster Available</p>
                         </div>:<img src={eachresult.Poster&&eachresult.Poster} alt="" />
                         }
                           
@@ -134,7 +134,7 @@ function SearchArea() {
                         document.querySelector(".details-wrapper").style.display="none"
                         setDetailsShow(false)
                     }}>X</span>
-                    <p className="show-text-details" style={{textAlign:"center",marginTop:30}}>Please Wait we are fetching your movie details</p>
+                    <p className="show-text-details" style={{textAlign:"center",marginTop:30}}>Please Wait While The API Fetches Your Movie Details</p>
                    {DetailsShow==true&&(
                         <Details UniqueData={UniqueData}/>
                    )}
