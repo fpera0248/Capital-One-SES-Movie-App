@@ -35,7 +35,7 @@ function Details({UniqueData}) {
                
                 <p>{UniqueData.Actors}</p>
 
-               <h4>Writters</h4>
+               <h4>Writers</h4>
                
                 <p>{UniqueData.Writer}</p>
 
