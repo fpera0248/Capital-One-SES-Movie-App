@@ -44,6 +44,7 @@ Not sure how to implement data caching, this could help improve speeds from API 
 Implementing search suggestions
 
 Genre: N/A
+
 Runtime: N/A
 
 ## Accomplishments
