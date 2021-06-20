@@ -1,4 +1,4 @@
-# Capital One Software Engineering Summit
+# Capital One Software Engineering Summit Movie App Submission
 
 ## What is this?
 
