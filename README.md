@@ -33,19 +33,21 @@ https://user-images.githubusercontent.com/73323113/122685802-b767ac80-d1db-11eb-
 
 ## Challenges I Faced
 
-Initally I tried created the movie app using HTML, CSS and Vanilla Javascript. I got stuck when trying to fetch multiple API pages so I thought to switch to React. I haven't developed an application that was being published before this app so it was interesting using React to develop this Movie Web App.  
+1. Initally I tried created the movie app using HTML, CSS and Vanilla Javascript. I got stuck when trying to fetch multiple API pages so I thought to switch to React. I haven't developed an application that was being published before this app so it was interesting using React to develop this Movie Web App.  
 
-I struggled to effectively resize the Poster for the movie details due to the varying sizes of the Movie Posters. The mobile version does a good job at rendering these posters effectively, but the web app does have some issues resizing the images when the brwoser is resized. 
+2. I struggled to effectively resize the Poster for the movie details due to the varying sizes of the Movie Posters. The mobile version does a good job at rendering these posters effectively, but the web app does have some issues resizing the images when the brwoser is resized. 
 
-After switching to React, I found a way to loop the API calls with the pagination aspect of the app and allow the user to view more than 10 movie titles at once. The OMDb API only allows 10 titles to be rendered at once so this feature was a necessary part of the app. I did this by connecting the API call loop to the pagination aspect of the app. 
+3. After switching to React, I found a way to loop the API calls with the pagination aspect of the app and allow the user to view more than 10 movie titles at once. The OMDb API only allows 10 titles to be rendered at once so this feature was a necessary part of the app. I did this by connecting the API call loop to the pagination aspect of the app. 
 
-I continued to work towards allowing the app to accept multiple API calls and allowed the app to accept empty values by returning a message that says "Movie Not Found" and accepting empty posters by returning an image that states "Poster Not Available". Inside of the Movie Details, it also accepts empty values for the details such as the Runtime and Genre. If these data fields are not available for a specific movie, it will return a text like this.
-
-I couldn't figure out how to implement search suggestions
+4. I continued to work towards allowing the app to accept multiple API calls and allowed the app to accept empty values by returning a message that says "Movie Not Found" and accepting empty posters by returning an image that states "Poster Not Available". Inside of the Movie Details, it also accepts empty values for the details such as the Runtime and Genre. If these data fields are not available for a specific movie, it will return a text like this.
 
 Genre: N/A
 
 Runtime: N/A
+
+5. I couldn't figure out how to implement search suggestions
+
+
 
 ## Accomplishments
 
