@@ -26,6 +26,7 @@ https://user-images.githubusercontent.com/73323113/122685802-b767ac80-d1db-11eb-
 ## Technologies Used
 
 [OMDb API](https://www.omdbapi.com/) to return movie values and details 
+
 [React](https://reactjs.org/) for building the webapp user interface
 
 ## Challenges I Faced
