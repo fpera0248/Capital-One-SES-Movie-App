@@ -48,7 +48,7 @@ Runtime: N/A
 
 5. I couldn't figure out how to implement search suggestions or allow the user to go back to a previously searched page because of the API calling. 
 
-6. I only leaarned how to commit to Github 2 days before this app was due but I eventually learned how to commit from VS Code and how to create n interactive ReadMe file with videos and hyperlinks. 
+6. I only learned how to commit to Github 2 days before this app was due but I eventually learned how to commit from VS Code and how to create an interactive ReadMe file with videos and hyperlinks (Yay to success!!). 
 
 
 
