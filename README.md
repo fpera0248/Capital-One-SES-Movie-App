@@ -6,8 +6,6 @@ This is my application to the Capital One Software Engineering Summit.
 
 I was tasked with completing a coding challenge which involved implemeting the OMDb API to retrieve movie details like release date, director, awards, etc. I had to create a webapp that can surface movie information using the OMDb open database API.  
 
-The app has a search function specifically for movie titles that results in an intuitive, responsive, mobile friendly, interface. The API allows for searches of tv series and episodes as well, but we would like you to focus your app on ONLY movie title searches
-
 It allows the user to search for movie titles and view different statistics including Runtime, Director Name and Year Released. The user can filter by year the movie came out and view multiple pages of results by pressing the "Show More" button at the bottom of the page. 
 
 View the project: https://fperalta-ses-movie-app.netlify.app/
