@@ -41,9 +41,7 @@ After switching to React, I found a way to loop the API calls with the paginatio
 
 I continued to work towards allowing the app to accept multiple API calls and allowed the app to accept empty values by returning a message that says "Movie Not Found" and accepting empty posters by returning an image that states "Poster Not Available". Inside of the Movie Details, it also accepts empty values for the details such as the Runtime and Genre. If these data fields are not available for a specific movie, it will return a text like this.
 
-Not sure how to implement data caching, this could help improve speeds from API calls
-
-Implementing search suggestions
+I couldn't figure out how to implement search suggestions
 
 Genre: N/A
 
