@@ -25,7 +25,7 @@ Has a search function specifically for movie titles that results in an intuitive
 
 After switching to React, I found a way to loop the API calls with the pagination aspect of the app and allow the user to view more than 10 movie titles at once. The OMDb API only allows 10 titles to be rendered at once so this feature was a necessary part of the app. I did this by connecting the API call loop to the pagination aspect of the app. 
 
-I continued to work towards allowing the app to accept multpile API calls and allowed the app to accept empty vaues by returning a message that says "Movie Not Found" and accepting empty poster by returning an image that states "Poster Not Available". Inside of the Movie Details, it also accepts empty values for the details such as the Runtime and Genre. If these data fields are not available for a specific movie, it will return a tecxt like this.
+I continued to work towards allowing the app to accept multiple API calls and allowed the app to accept empty values by returning a message that says "Movie Not Found" and accepting empty posters by returning an image that states "Poster Not Available". Inside of the Movie Details, it also accepts empty values for the details such as the Runtime and Genre. If these data fields are not available for a specific movie, it will return a text like this.
 
 Genre: N/A
 Runtime: N/A
