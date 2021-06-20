@@ -23,6 +23,8 @@ https://user-images.githubusercontent.com/73323113/122685790-9901b100-d1db-11eb-
 
 https://user-images.githubusercontent.com/73323113/122685802-b767ac80-d1db-11eb-9645-299e00fe79b1.mp4
 
+![Avengers](https://user-images.githubusercontent.com/73323113/122686057-44f7cc00-d1dd-11eb-80c2-59ccd8eebe80.png)
+
 ## Technologies Used
 
 [OMDb API](https://www.omdbapi.com/) to return movie values and details 
