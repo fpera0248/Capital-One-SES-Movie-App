@@ -10,16 +10,17 @@ It allows the user to search for movie titles and view different statistics incl
 
 View the project: https://fperalta-ses-movie-app.netlify.app/
 
+## Walkthrough
+
+https://user-images.githubusercontent.com/73323113/122685741-458f6300-d1db-11eb-8fc9-c06f6dfafcab.mp4
+https://user-images.githubusercontent.com/73323113/122685772-71aae400-d1db-11eb-9c5c-3a5991a24b48.mp4
+https://user-images.githubusercontent.com/73323113/122685790-9901b100-d1db-11eb-9320-70308f15e078.mp4
+https://user-images.githubusercontent.com/73323113/122685802-b767ac80-d1db-11eb-9645-299e00fe79b1.mp4
+
 ## Technologies Used
 
 [OMDb API](https://www.omdbapi.com/) to return movie values and details 
 [React](https://reactjs.org/) for building the webapp user interface
-
-## Walkthrough
-
-![App Home Page](https://user-images.githubusercontent.com/73323113/122685616-7c18ae00-d1da-11eb-8f83-e5cddded6600.png)
-
-https://user-images.githubusercontent.com/73323113/122685741-458f6300-d1db-11eb-8fc9-c06f6dfafcab.mp4
 
 ## Challenges I Faced
 
