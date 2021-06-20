@@ -10,6 +10,8 @@ It allows the user to search for movie titles and view different statistics incl
 
 View the project: https://fperalta-ses-movie-app.netlify.app/
 
+![alt text](https://d18qs7yq39787j.cloudfront.net/uploads/solutionfile/75371/1f4854f50421-App+Home+Page.png)
+
 
 ## Technologies Used
 
