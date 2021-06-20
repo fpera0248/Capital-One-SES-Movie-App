@@ -59,3 +59,5 @@ I tried to bring forth a quality user experience in hopes of helping to keep the
 I struggled using React to build this application but I found that building a web application from ground up and making it work efficiently is a very rewarding feeling. This was also my first time using an API, so it was a very interesting experience as well. 
 
 I also was exposed to React JavaScript and learned about API calls and information rendering.
+
+Learned how to use Github effectively for version control. 
