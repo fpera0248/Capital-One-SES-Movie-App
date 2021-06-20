@@ -46,7 +46,7 @@ Genre: N/A
 
 Runtime: N/A
 
-5. I couldn't figure out how to implement search suggestions
+5. I couldn't figure out how to implement search suggestions or allow the user to go back to a previously searched page because of the API calling. 
 
 
 
