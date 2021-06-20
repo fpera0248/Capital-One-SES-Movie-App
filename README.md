@@ -19,7 +19,7 @@ View the project: https://fperalta-ses-movie-app.netlify.app/
 
 ## Challenges I Faced
 
-Initally I tried created the movie app using HTML, CSS and Vanilla Javascript. I got stuck when trying to fetch mutlpiple API pages so I thought to switch to React. I haven't developed an application that was being published before this app so it was interesting using React to develop this Movie Web App.  
+Initally I tried created the movie app using HTML, CSS and Vanilla Javascript. I got stuck when trying to fetch multiple API pages so I thought to switch to React. I haven't developed an application that was being published before this app so it was interesting using React to develop this Movie Web App.  
 
 Has a search function specifically for movie titles that results in an intuitive, responsive, mobile friendly, interface. I struggled to effectively resize the Poster for the movie details due to the varying sizes of the Movie Posters. The mobile version does a good job at rendering these posters effectively, but the web app does have some issues resizing the images when the brwoser is resized. 
 
