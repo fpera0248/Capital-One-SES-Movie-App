@@ -18,6 +18,9 @@ View the project: https://fperalta-ses-movie-app.netlify.app/
 [OMDb API](https://www.omdbapi.com/) to return movie values and details 
 [React](https://reactjs.org/) for building the webapp user interface
 
+## Walkthrough
+
+![App Home Page](https://user-images.githubusercontent.com/73323113/122685616-7c18ae00-d1da-11eb-8f83-e5cddded6600.png)
 
 ## Challenges I Faced
 
