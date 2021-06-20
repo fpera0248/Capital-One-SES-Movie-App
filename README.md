@@ -10,9 +10,6 @@ It allows the user to search for movie titles and view different statistics incl
 
 View the project: https://fperalta-ses-movie-app.netlify.app/
 
-![alt text](https://d18qs7yq39787j.cloudfront.net/uploads/solutionfile/75371/1f4854f50421-App+Home+Page.png)
-
-
 ## Technologies Used
 
 [OMDb API](https://www.omdbapi.com/) to return movie values and details 
@@ -21,6 +18,8 @@ View the project: https://fperalta-ses-movie-app.netlify.app/
 ## Walkthrough
 
 ![App Home Page](https://user-images.githubusercontent.com/73323113/122685616-7c18ae00-d1da-11eb-8f83-e5cddded6600.png)
+
+https://user-images.githubusercontent.com/73323113/122685741-458f6300-d1db-11eb-8fc9-c06f6dfafcab.mp4
 
 ## Challenges I Faced
 
