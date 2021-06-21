@@ -40,6 +40,8 @@ https://user-images.githubusercontent.com/73323113/122686485-3ad6cd00-d1df-11eb-
 
 ![AA13242E-EA32-406A-B918-CF0177C940A3](https://user-images.githubusercontent.com/73323113/122702246-f1a56e00-d21c-11eb-952f-df35701d0de0.PNG)
 
+![ResizerImage500X700](https://user-images.githubusercontent.com/73323113/122702357-3a5d2700-d21d-11eb-9d3c-efef7f0c852b.jpg)
+
 ## Technologies Used
 
 [OMDb API](https://www.omdbapi.com/) to return movie values and details 
