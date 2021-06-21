@@ -28,8 +28,7 @@ https://user-images.githubusercontent.com/73323113/122686485-3ad6cd00-d1df-11eb-
 
 ## Mobile Screenshots
 
-![ResizerImage300X500 4](https://user-images.githubusercontent.com/73323113/122702732-ffa7be80-d21d-11eb-87cd-19d21e2e61c0.jpg)
-![ResizerImage300X500 5](https://user-images.githubusercontent.com/73323113/122702734-01718200-d21e-11eb-9719-477c3d0dd071.jpg)
+![ResizerImage300X500 4](https://user-images.githubusercontent.com/73323113/122702732-ffa7be80-d21d-11eb-87cd-19d21e2e61c0.jpg) ![ResizerImage300X500 5](https://user-images.githubusercontent.com/73323113/122702734-01718200-d21e-11eb-9719-477c3d0dd071.jpg)
 ![ResizerImage300X500 3](https://user-images.githubusercontent.com/73323113/122702730-fdddfb00-d21d-11eb-94d4-e6bec95e0e17.jpg)
 ![ResizerImage300X500 2](https://user-images.githubusercontent.com/73323113/122702726-fb7ba100-d21d-11eb-84a3-c0190d61c2ad.jpg)
 ![ResizerImage300X500](https://user-images.githubusercontent.com/73323113/122702710-f4ed2980-d21d-11eb-8134-c2b1628bf874.jpg)
