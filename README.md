@@ -26,6 +26,20 @@ https://user-images.githubusercontent.com/73323113/122685802-b767ac80-d1db-11eb-
 
 https://user-images.githubusercontent.com/73323113/122686485-3ad6cd00-d1df-11eb-93b5-b8a1602c2370.mp4
 
+## Mobile Screenshots
+
+![2DCE24A7-1CF3-4D38-B856-92408A8708E3](https://user-images.githubusercontent.com/73323113/122702139-bc991b80-d21c-11eb-9a8d-449fe9de9895.PNG)
+
+![79C2C03D-6333-4209-A818-825994E551C7](https://user-images.githubusercontent.com/73323113/122702170-cfabeb80-d21c-11eb-82bb-65f6e9198fc1.PNG)
+
+![0796C51A-0518-4B5F-81A4-D8649D5F5853](https://user-images.githubusercontent.com/73323113/122702187-d89cbd00-d21c-11eb-91c4-7ba6b88adaa1.PNG)
+
+![826C85C0-962F-4BAF-9F69-D9ED1909C3F2](https://user-images.githubusercontent.com/73323113/122702199-ddfa0780-d21c-11eb-979a-d509cbc42ac7.PNG)
+
+![6038DC45-5B09-4BB7-B6B9-7BC5EE9A319B](https://user-images.githubusercontent.com/73323113/122702222-e9e5c980-d21c-11eb-826c-ec7c9bfb4a66.PNG)
+
+![AA13242E-EA32-406A-B918-CF0177C940A3](https://user-images.githubusercontent.com/73323113/122702246-f1a56e00-d21c-11eb-952f-df35701d0de0.PNG)
+
 ## Technologies Used
 
 [OMDb API](https://www.omdbapi.com/) to return movie values and details 
