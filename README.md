@@ -28,23 +28,12 @@ https://user-images.githubusercontent.com/73323113/122686485-3ad6cd00-d1df-11eb-
 
 ## Mobile Screenshots
 
-![2DCE24A7-1CF3-4D38-B856-92408A8708E3](https://user-images.githubusercontent.com/73323113/122702139-bc991b80-d21c-11eb-9a8d-449fe9de9895.PNG)
-
-![79C2C03D-6333-4209-A818-825994E551C7](https://user-images.githubusercontent.com/73323113/122702170-cfabeb80-d21c-11eb-82bb-65f6e9198fc1.PNG)
-
-![0796C51A-0518-4B5F-81A4-D8649D5F5853](https://user-images.githubusercontent.com/73323113/122702187-d89cbd00-d21c-11eb-91c4-7ba6b88adaa1.PNG)
-
-![826C85C0-962F-4BAF-9F69-D9ED1909C3F2](https://user-images.githubusercontent.com/73323113/122702199-ddfa0780-d21c-11eb-979a-d509cbc42ac7.PNG)
-
-![6038DC45-5B09-4BB7-B6B9-7BC5EE9A319B](https://user-images.githubusercontent.com/73323113/122702222-e9e5c980-d21c-11eb-826c-ec7c9bfb4a66.PNG)
-
-![AA13242E-EA32-406A-B918-CF0177C940A3](https://user-images.githubusercontent.com/73323113/122702246-f1a56e00-d21c-11eb-952f-df35701d0de0.PNG)
-
-![ResizerImage500X700](https://user-images.githubusercontent.com/73323113/122702357-3a5d2700-d21d-11eb-9d3c-efef7f0c852b.jpg)
-
-![ResizerImage500X700](https://user-images.githubusercontent.com/73323113/122702357-3a5d2700-d21d-11eb-9d3c-efef7f0c852b.jpg)
-![ResizerImage300X500](https://user-images.githubusercontent.com/73323113/122702471-71cbd380-d21d-11eb-8282-6269f13f09bf.jpg)
-![ResizerImage300X500](https://user-images.githubusercontent.com/73323113/122702471-71cbd380-d21d-11eb-8282-6269f13f09bf.jpg)
+![ResizerImage300X500](https://user-images.githubusercontent.com/73323113/122702710-f4ed2980-d21d-11eb-8134-c2b1628bf874.jpg)
+![ResizerImage300X500 1](https://user-images.githubusercontent.com/73323113/122702720-f74f8380-d21d-11eb-8d55-12023892a4a6.jpg)
+![ResizerImage300X500 2](https://user-images.githubusercontent.com/73323113/122702726-fb7ba100-d21d-11eb-84a3-c0190d61c2ad.jpg)
+![ResizerImage300X500 3](https://user-images.githubusercontent.com/73323113/122702730-fdddfb00-d21d-11eb-94d4-e6bec95e0e17.jpg)
+![ResizerImage300X500 4](https://user-images.githubusercontent.com/73323113/122702732-ffa7be80-d21d-11eb-87cd-19d21e2e61c0.jpg)
+![ResizerImage300X500 5](https://user-images.githubusercontent.com/73323113/122702734-01718200-d21e-11eb-9719-477c3d0dd071.jpg)
 
 ## Technologies Used
 
